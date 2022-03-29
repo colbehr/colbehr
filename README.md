@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on software for grading exams
 - 🌱 I’m currently learning Vue.js and UX/UI Design!
-- 📫 Check out my site: [Colbehr.com](http://www.colbehr.com) 
+- 📫 Check out my site: [colbehr.com](http://www.colbehr.com) 
