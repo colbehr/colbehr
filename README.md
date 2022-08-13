@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on software for grading exams
+- 🔭 I’m currently working on software for grading exams and a research project for recording audio memories.
 - 🌱 I’m currently learning Vue.js and UX/UI Design!
 - 📫 Check out my site: [colbehr.com](http://www.colbehr.com) 
