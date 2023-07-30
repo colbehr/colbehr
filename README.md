@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning React with MERN Stack, Android App Development in Kotlin and UX/UI Design!
+- 🌱 I’m currently learning React with MERN Stack, Android app development in Kotlin and UX/UI Design!
 - 📫 Check out my site: [colbehr.com](http://www.colbehr.com) 
