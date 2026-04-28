@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on software for grading exams and a research project for recording audio memories.
 
--->
-
 
 - 🌱 I’m currently working on various projects! Some tech I am using right now is React with MERN Stack, Android app development in Kotlin and Next.js!
-- 📫 Check out my site: [colbehr.com](http://www.colbehr.com) 
+-->
+- 📫 Check out my site! [colbehr.com](http://www.colbehr.com) 
